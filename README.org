@@ -1,4 +1,4 @@
-* 100_computer_science_concepts
+#+TITLE: 100_computer_science_concepts
 
 Based on this video:
 [[https://youtu.be/-uleG_Vecis]]
