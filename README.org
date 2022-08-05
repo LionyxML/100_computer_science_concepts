@@ -1,0 +1,111 @@
+# 100_computer_science_concepts
+
+Based on this video:
+[[https://youtu.be/-uleG_Vecis]]
+
+These are topics you sould now about. Incrementally... forever...
+
+* Turing Machine
+* CPU
+* Transistors
+* Byte
+* ASCII Character Encoding
+* Binary
+* Hexidaceimal
+* Nibble
+* Machine Code
+* RAM
+* Memory Address
+* I/O
+* Kernel
+* Shell
+* Command Line Interface
+* Secure Shell Protocol
+* Mainframe
+* Programming Language
+* Abstraction Principle
+* Interpreted Languages
+* Compiled Languages
+* Executable
+* Data Types
+* Variable
+* Dinamycally Typed
+* Statically Typed
+* Pointer
+* Garbage Collection
+* Int
+* Signed
+* Floating Point
+* Double
+* Char
+* String
+* Big Endian
+* Little Endian
+* Software Engineering
+* Data Structures
+* Array
+* Linked List
+* Stack
+* Queue
+* Hash
+* Map
+* Dict / Hash / Map
+* Tree
+* Graph
+* Node
+* Algorithm
+* Function
+* Return
+* Arguments
+* Operators
+* Boolean
+* Expression
+* Statement
+* Conditional Logic
+* While Loop
+* Iterable
+* For Loop
+* Void
+* Recursion
+* Call Stack
+* Stack Overflow
+* Base Condition
+* Big-O Notation
+* Time complexity
+* Space Complexity
+* Brute Force
+* Divide & Conquer
+* Dynamic Programming
+* Memoization
+* Greedy
+* Dijkstra's Shortest Path
+* Backtracking
+* Declarative
+* Functional Languages
+* Imperative
+* Procedural Languages
+* Multiparadigm Languages
+* Object-Oriented
+* Class
+* Property
+* Method
+* Inheritance
+* Design Patterns
+* Instantiable
+* Heap
+* Reference
+* Threads
+* Parallelism
+* Concurrency
+* Bare Metal
+* Virtual Machine
+* Networking
+* IP Address
+* URL
+* DNS
+* Transmission Control Protocol
+* Packets
+* Secure Sockets Layer
+* HTTP
+* Application Programming Interface
+* Printers
